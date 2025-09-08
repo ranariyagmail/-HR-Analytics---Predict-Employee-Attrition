@@ -1,0 +1,20 @@
+Logistic Regression Report:
+              precision    recall  f1-score   support
+
+           0       0.75      1.00      0.86        75
+           1       0.00      0.00      0.00        25
+
+    accuracy                           0.75       100
+   macro avg       0.38      0.50      0.43       100
+weighted avg       0.56      0.75      0.64       100
+
+
+Decision Tree Report:
+              precision    recall  f1-score   support
+
+           0       0.75      0.68      0.71        75
+           1       0.25      0.32      0.28        25
+
+    accuracy                           0.59       100
+   macro avg       0.50      0.50      0.50       100
+weighted avg       0.62      0.59      0.61       100
